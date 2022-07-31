@@ -1,5 +1,5 @@
 # hello-world
 GitHub tutorial project
 
-Using GitHub for some of my personal programming projects.
+Using GitHub for some personal programming projects.
 *Finally* getting back to this.
